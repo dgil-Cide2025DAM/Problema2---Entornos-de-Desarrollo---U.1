@@ -31,15 +31,4 @@ public class Main {
 
         
     }
-    // EJERCICIO 2
-    public static void main(String[] args){
-        Scanner sc2 = new Scanner(System.in);
-
-        double sumar = 2.0;
-        double restar = 3.5;
-        double inversion = 1.4;
-        double parar = 4.9;
-
-        while ()
-    }
 }
